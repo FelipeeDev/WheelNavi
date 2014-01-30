@@ -1,0 +1,35 @@
+{
+    "name": "wheelnavi",
+    "title": "jQuery Wheel Navigator",
+    "description": "jQuery plugin which generates a navigation wheel on canvas based on ul list that can be an alternative for standard navigations and menus (includes font Awesome icons).",
+    "keywords": [
+        "navigation",
+        "wheel",
+        "ui",
+        "menu"
+    ],
+    "version": "0.4.1",
+    "author": {
+        "name": "Filip Koblański",
+        "url": "https://github.com/FelipeeDev"
+    },
+    "maintainers": [
+        {
+            "name": "Filip Koblański",
+            "email": "filip.koblanski@gmail.com",
+            "url": "https://github.com/FelipeeDev"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "bugs": "https://github.com/FelipeeDev/WheelNavi/issues",
+    "homepage": "https://github.com/FelipeeDev/WheelNavi",
+    "docs": "https://github.com/FelipeeDev/WheelNavi/blob/master/README.md",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
